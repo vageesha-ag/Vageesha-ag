@@ -7,4 +7,4 @@ My work spans physical products, systems and digital interfaces. I have designed
 🔗 **Portfolio:** https://vageeshaportfolio.framer.website
 📫 **Email:** vageeshaagarwal2004@gmail.com
 
-**Tools:** Fusion 360 · SolidWorks · KeyShot · Figma · Framer · Adobe Suite
+**Tools:** Fusion 360 · Rhino · KeyShot · Figma · Framer · Adobe Suite
